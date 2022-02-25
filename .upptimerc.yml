@@ -17,9 +17,13 @@ sites:
     check: "tcp-ping"
     url: https://undead-panel.com
     port: 2022
+  - name: Pterodactyl MySQL
+    check: "tcp-ping"
+    url: https://undead-panel.com
+    port: 3306
   - name: Classic DarkRP
     check: "tcp-ping"
-    url: 104.156.148.34
+    url: https://undead-panel.com
     port: 27016
 status-website:
   # Custom stuff
