@@ -9,9 +9,7 @@ sites:
     url: https://undead-panel.com
 status-website:
   # Custom stuff
-  publish: true
-  apiBaseUrl: ${{ secrets.GH_PAT }}
-  cname: status.uundeadservers,irg
+  cname: status.undeadservers.org
   
   theme: night
 
