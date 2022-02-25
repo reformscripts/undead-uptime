@@ -10,7 +10,13 @@ sites:
   - name: Donation Store
     url: https://store.undeadservers.org
   - name: Pterodactyl Panel
+    check: "tcp-ping"
     url: https://undead-panel.com
+    port: 8080
+  - name: Pterodactyl sFTP
+    check: "tcp-ping"
+    url: https://undead-panel.com
+    port: 2022
   - name: Classic DarkRP
     check: "tcp-ping"
     url: 104.156.148.34
