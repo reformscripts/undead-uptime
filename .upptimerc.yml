@@ -29,7 +29,11 @@ status-website:
   # Custom stuff
   cname: status.undeadservers.org
   
+  # Dark Theme
   theme: night
+  
+  # Favicon
+  favicon: https://i.ibb.co/QKPLTFX/favicon-1.png
 
   logoUrl: https://undeadservers.org/Themes/lagusta_20rc5/images/custom/logo.png
   name: Undead Servers
