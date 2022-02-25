@@ -5,8 +5,14 @@ repo: undead-uptime # The name of this repository
 sites:
   - name: Forums
     url: https://undeadservers.org
-  - name: Panel
+  - name: Donation Store
+    url: https://store.undeadservers.org
+  - name: Pterodactyl Panel
     url: https://undead-panel.com
+  - name: Classic DarkRP
+    check: "tcp-ping"
+    url: 104.156.148.34
+    port: 27016
 status-website:
   # Custom stuff
   cname: status.undeadservers.org
