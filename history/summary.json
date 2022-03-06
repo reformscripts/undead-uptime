@@ -4,19 +4,19 @@
     "url": "https://undeadservers.org",
     "icon": "https://favicons.githubusercontent.com/undeadservers.org",
     "slug": "forums",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 568,
-    "timeWeek": 454,
-    "timeMonth": 457,
-    "timeYear": 457,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 460,
+    "timeDay": 543,
+    "timeWeek": 462,
+    "timeMonth": 460,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2022-03-06": 0
+      "2022-03-06": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://store.undeadservers.org",
     "icon": "https://favicons.githubusercontent.com/store.undeadservers.org",
     "slug": "donation-store",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 367,
-    "timeDay": 269,
-    "timeWeek": 346,
+    "timeDay": 317,
+    "timeWeek": 348,
     "timeMonth": 367,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2022-03-06": 0
+      "2022-03-06": 9
     }
   },
   {
