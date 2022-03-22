@@ -4,10 +4,10 @@
     "url": "https://undeadservers.org",
     "icon": "https://favicons.githubusercontent.com/undeadservers.org",
     "slug": "forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 476,
@@ -15,14 +15,16 @@
     "timeWeek": 469,
     "timeMonth": 476,
     "timeYear": 476,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 1
+    }
   },
   {
     "name": "Donation Store",
     "url": "https://store.undeadservers.org",
     "icon": "https://favicons.githubusercontent.com/store.undeadservers.org",
     "slug": "donation-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 367,
     "timeMonth": 383,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 0
+    }
   },
   {
     "name": "Pterodactyl Panel",
