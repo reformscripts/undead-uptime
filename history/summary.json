@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/undeadservers.org",
     "slug": "forums",
     "status": "down",
-    "uptime": "30.63%",
+    "uptime": "30.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "30.63%",
+    "uptimeYear": "30.26%",
     "time": 476,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2022-05-17": 104,
+      "2022-05-18": 83,
+      "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
       "2022-05-14": 1440,
@@ -81,18 +82,19 @@
     "icon": "https://favicons.githubusercontent.com/store.undeadservers.org",
     "slug": "donation-store",
     "status": "down",
-    "uptime": "30.61%",
+    "uptime": "30.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "30.61%",
+    "uptimeYear": "30.24%",
     "time": 383,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2022-05-17": 104,
+      "2022-05-18": 83,
+      "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
       "2022-05-14": 1440,
@@ -156,9 +158,9 @@
     "url": "https://undead-panel.com",
     "icon": "https://favicons.githubusercontent.com/undead-panel.com",
     "slug": "pterodactyl-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,16 +169,18 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   },
   {
     "name": "Pterodactyl sFTP",
     "url": "https://undead-panel.com",
     "icon": "https://favicons.githubusercontent.com/undead-panel.com",
     "slug": "pterodactyl-s-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,16 +189,18 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   },
   {
     "name": "Pterodactyl MySQL",
     "url": "https://undead-panel.com",
     "icon": "https://favicons.githubusercontent.com/undead-panel.com",
     "slug": "pterodactyl-my-sql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -203,14 +209,16 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   },
   {
     "name": "Classic DarkRP",
     "url": "https://undead-panel.com",
     "icon": "https://favicons.githubusercontent.com/undead-panel.com",
     "slug": "classic-dark-rp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -221,6 +229,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   }
 ]
