@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/undeadservers.org.ico",
     "slug": "forums",
     "status": "down",
-    "uptime": "4.95%",
+    "uptime": "4.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 478,
+    "time": 483,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 105,
+      "2023-07-08": 103,
+      "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -379,8 +380,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
-      "2022-07-09": 1440,
-      "2022-07-08": 1440
+      "2022-07-09": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/store.undeadservers.org.ico",
     "slug": "donation-store",
     "status": "down",
-    "uptime": "4.95%",
+    "uptime": "4.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 399,
+    "time": 400,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 105,
+      "2023-07-08": 103,
+      "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -763,8 +764,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
-      "2022-07-09": 1440,
-      "2022-07-08": 1440
+      "2022-07-09": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/undead-panel.com.ico",
     "slug": "pterodactyl-panel",
     "status": "down",
-    "uptime": "16.37%",
+    "uptime": "16.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 105,
+      "2023-07-08": 103,
+      "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -1147,8 +1148,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
-      "2022-07-09": 1440,
-      "2022-07-08": 1440
+      "2022-07-09": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/undead-panel.com.ico",
     "slug": "pterodactyl-s-ftp",
     "status": "down",
-    "uptime": "16.36%",
+    "uptime": "16.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 105,
+      "2023-07-08": 103,
+      "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -1531,8 +1532,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
-      "2022-07-09": 1440,
-      "2022-07-08": 1440
+      "2022-07-09": 1440
     }
   },
   {
@@ -1541,7 +1541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/undead-panel.com.ico",
     "slug": "pterodactyl-my-sql",
     "status": "down",
-    "uptime": "16.36%",
+    "uptime": "16.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1552,7 +1552,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 105,
+      "2023-07-08": 103,
+      "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -1915,8 +1916,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
-      "2022-07-09": 1440,
-      "2022-07-08": 1440
+      "2022-07-09": 1440
     }
   },
   {
@@ -1925,18 +1925,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/undead-panel.com.ico",
     "slug": "classic-dark-rp",
     "status": "down",
-    "uptime": "16.37%",
+    "uptime": "16.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 217,
+    "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 105,
+      "2023-07-08": 104,
+      "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -2299,8 +2300,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
-      "2022-07-09": 1440,
-      "2022-07-08": 1440
+      "2022-07-09": 1440
     }
   }
 ]
